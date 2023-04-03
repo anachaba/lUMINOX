@@ -1,0 +1,10 @@
+Ship KEYWORD1
+initial KEYWORD2
+destination KEYWORD2
+speed KEYWORD2
+go KEYWORD2
+left KEYWORD2
+right KEYWORD2
+forward KEYWORD2
+backward KEYWORD2
+stop KEYWORD2
